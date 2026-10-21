@@ -1,0 +1,8 @@
+[package]
+name = "estudio_tshirt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27.2" # Biblioteca de GUI
+image = "0.25.1"  # Manipulação nativa de imagem e píxeis
